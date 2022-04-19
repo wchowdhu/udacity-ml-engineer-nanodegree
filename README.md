@@ -18,7 +18,6 @@ Project work from the Udacity [Machine Learning Engineer](https://www.udacity.co
 
 # Coursework
 
-  - [Software Engineering Fundamentals](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree/tree/master/coursework/portfolio_exercise)
   - [Machine Learning in Production](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree/tree/master/coursework/sentiment_analysis_xgboost)
   - [Machine Learning Case Studies](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree/tree/master/coursework/ml_case_studies)
   - [Machine Learning Capstone](https://github.com/wchowdhu/udacity-capstone-project)
